@@ -48,4 +48,4 @@ $articles = [
     ]
 ];
 
-require('index-template.php');
+require('index_list.php');
